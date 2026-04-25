@@ -133,5 +133,5 @@ python app.py
 ---
 
 ## 👥 Contributors
-- RA2411026050086
-- RA2411026050082
+- Venkat sai A - RA2411026050086
+- Jeevansai S - RA2411026050082
